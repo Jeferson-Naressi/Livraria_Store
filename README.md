@@ -1,2 +1,2 @@
-# Livraria_Store
-Ecommerce livraria, projeto do senai
+# LivrariaStore
+Site para minha marca
